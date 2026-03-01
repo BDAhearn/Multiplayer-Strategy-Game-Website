@@ -10,6 +10,8 @@ Senior Project for W26 CIS4891.0M1. Strategy game website that allows users to c
 | [Use Cases](#use-cases) | 
 | [Use-Case Diagram](#use-case-diagram) | 
 | [Requirements](#requirements)
+| [ERD Diagram](#erd-diagram)
+| [UML Class Diagram](#uml-class-diagram)
 
 
 ## Description
@@ -170,3 +172,9 @@ So that I can play games in person with friends
 |R-7|The database should keep track of all of the games played with the final board, the users who played, and the winner.|
 |R-8|The software shall allow the games to run without users cheating.|
 |R-9|The software shall notifiy users when a game is complete.|
+
+## ERD Diagram
+![alt text](https://github.com/BDAhearn/Senior-Project---Multiplayer-Strategy-Game-Website/blob/main/Wireframs%20and%20diagrams/ERD%20Diagram.png?raw=true "ERD Diagram")
+
+## UML Class Diagram 
+![alt text](https://github.com/BDAhearn/Senior-Project---Multiplayer-Strategy-Game-Website/blob/main/Wireframs%20and%20diagrams/UML%20Class%20Diagram%20.png?raw=true "UML Class Diagram")
