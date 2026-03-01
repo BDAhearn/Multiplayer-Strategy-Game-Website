@@ -21,6 +21,8 @@ Lobbies will be able to be either open to everyone online, private to only peopl
 Users will not need to create an account to join lobbies, just to create them and to track their stats. When a player arrives who doesnt have account, they will be given a temporary account they can immediately play with, without doing anything on their end. Whenever they want they can register their account so they can gain full site features.
 
 The initial games will be simple games like tic-tac-toe or connect four but will be able to support more complext games like checkers or chess. The games will be played in real time and the gameboard will be updated for both players after one makes a move. The stats will be shown on each players page with the games they most played along with their win/loss/draw/forfiet ratios.
+
+This project will primarily use ASP.Net using and MVC style design to handle the front-end and the back-end of this website.
  
 
 ## Solution Architecture Diagram
