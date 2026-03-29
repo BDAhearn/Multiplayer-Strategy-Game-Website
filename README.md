@@ -179,26 +179,42 @@ This is not finalized and will be updated during development.
 
 ### This is for the Game class
 Game Class Model Code
+
 ![Game Class Model Code](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/GameClassModelCode.png?raw=true "Game Class Model Code")
 
 Game API
+
 ![Game API](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/GameAPI.png?raw=true "Game API")
 
 Get Games API Results
+
 ![Get Games API Results](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/GetGamesAPI.png?raw=true "Get Games API Results")
+
 
 ### This is for the Player class
 Player Class Model Code
+
 ![Player Class Model Code](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/PlayerClassModelCode.png?raw=true "Player Class Model Code")
 
 Player API
+
 ![Player API 1](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/PlayerAPI1.png?raw=true "Player API 1")
 ![Player API 2](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/PlayerAPI2.png?raw=true "Player API 2")
 
 Get Players API Results
+
 ![Get Players API Results](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/GetPlayersAPI.png?raw=true "Get Players API Results")
 
+
 ### This is for the Lobby class
+Lobby Class Model Code
+
 ![Lobby Class Model Code](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/LobbyClassModelCode.png?raw=true "Lobby Class Model Code")
+
+Lobby API
+
 ![Lobby API](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/LobbyAPI.png?raw=true "Lobby AOI")
+
+Get Lobby API Results
+
 ![Get Lobby API Results](https://github.com/BDAhearn/Multiplayer-Strategy-Game-Website/blob/main/APIScreenshots/GetLobbiesAPI.png?raw=true "Get Lobby API Results")
