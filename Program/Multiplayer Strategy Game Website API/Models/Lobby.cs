@@ -1,4 +1,6 @@
-﻿using System.Net.NetworkInformation;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Net.NetworkInformation;
+using System.Text.Json;
 
 namespace Multiplayer_Strategy_Game_Website_API.Models
 {
@@ -13,6 +15,7 @@ namespace Multiplayer_Strategy_Game_Website_API.Models
         public string? lobbyChallengerStatus { get; set; }
         public DateTime lobbyDateCreated { get; set; }
         public string lobbyVisibility { get; set; }
+        public string lobbyMovesJson { get; set; } = "[]";
 
         public Lobby() { }
 
@@ -23,6 +26,19 @@ namespace Multiplayer_Strategy_Game_Website_API.Models
             lobbyHostID = _host;
             lobbyVisibility = _visibility;
             lobbyDateCreated = _date;
+        }
+
+        [NotMapped]
+        public List<string> lobbyMoves
+        {
+            get =>
+                string.IsNullOrWhiteSpace(lobbyMovesJson)
+                    ? new List<string>()
+                    : System.Text.Json.JsonSerializer.Deserialize<List<string>>(lobbyMovesJson)
+                      ?? new List<string>();
+
+            set =>
+                lobbyMovesJson = System.Text.Json.JsonSerializer.Serialize(value ?? new List<string>());
         }
     }
 }

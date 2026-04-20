@@ -1,7 +1,9 @@
-using Microsoft.EntityFrameworkCore;
-using Multiplayer_Strategy_Game_Website_API.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Multiplayer_Strategy_Game_Website_API.Data;
+using Multiplayer_Strategy_Game_Website_API.Games.TicTacToe;
+using SignalRChat.Hubs;
 using System.Text;
 
 
@@ -11,6 +13,7 @@ var key = Encoding.UTF8.GetBytes(jwtSettings["Key"]);
 
 // Add services to the container.
 builder.Services.AddControllers();
+builder.Services.AddSignalR();
 
 //Add Cors
 builder.Services.AddCors(options =>
@@ -67,4 +70,6 @@ app.UseCors("AllowAll");
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+app.MapHub<GameHub>("/play");
+app.MapHub<TicTacToeHub>("/tictactoe");
 app.Run();

@@ -25,11 +25,30 @@
 
     <p id="result"></p>
 
+    <h2>Available Lobbies</h2>
+
+    <table id="lobbyTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Game</th>
+                <th>Host</th>
+                <th>Challenger</th>
+                <th>Status</th>
+                <th>Created</th>
+                <th>Visibility</th>
+            </tr>
+        </thead>
+        <tbody id="lobbyTableBody">
+        </tbody>
+    </table>
+
     <script>
         window.addEventListener("DOMContentLoaded", () => {
             loadHeader();
             loadName();
-            loadGames();
+            loadGamesList();
+            loadLobbies();
         });
     </script>
 </body>

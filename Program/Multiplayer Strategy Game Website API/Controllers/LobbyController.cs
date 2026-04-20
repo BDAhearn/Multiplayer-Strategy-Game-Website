@@ -78,7 +78,47 @@ namespace Multiplayer_Strategy_Game_Website_API.Controllers
             _context.Lobbies.Add(lobby);
             _context.SaveChanges();
 
-            return Ok(lobby);
+            return Ok(new
+            {
+                lobbyId = lobby.lobbyId,
+                role = "host"
+            });
+        }
+
+        [Authorize]
+        [HttpPost("{id}/join")]
+        public IActionResult JoinLobby(int id)
+        {
+            var lobby = _context.Lobbies.FirstOrDefault(l => l.lobbyId == id);
+
+            if (lobby == null)
+                return NotFound("Lobby not found");
+
+            if (lobby.lobbyChallengerId != null)
+                return BadRequest("Lobby already has a challenger");
+
+            var userIdClaim =
+                User.FindFirst(ClaimTypes.NameIdentifier) ??
+                User.FindFirst("sub");
+
+            if (userIdClaim == null)
+                return Unauthorized();
+
+            var userId = int.Parse(userIdClaim.Value);
+
+            if (lobby.lobbyHostID == userId)
+                return BadRequest("You cannot join your own lobby");
+
+            lobby.lobbyChallengerId = userId;
+            lobby.lobbyStatus = "InProgress";
+
+            _context.SaveChanges();
+
+            return Ok(new
+            {
+                lobbyId = lobby.lobbyId,
+                role = "challenger"
+            });
         }
 
     }

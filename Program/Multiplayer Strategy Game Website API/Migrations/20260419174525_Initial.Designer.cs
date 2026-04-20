@@ -12,7 +12,7 @@ using Multiplayer_Strategy_Game_Website_API.Data;
 namespace Multiplayer_Strategy_Game_Website_API.Migrations
 {
     [DbContext(typeof(GameSiteDbContext))]
-    [Migration("20260329032702_Initial")]
+    [Migration("20260419174525_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -24,6 +24,53 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Multiplayer_Strategy_Game_Website_API.Models.Account", b =>
+                {
+                    b.Property<int>("playerId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("playerId"));
+
+                    b.Property<DateTime>("playerDateJoined")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("playerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("playerPasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("playerId");
+
+                    b.ToTable("Players");
+
+                    b.HasData(
+                        new
+                        {
+                            playerId = 1,
+                            playerDateJoined = new DateTime(2025, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            playerName = "techstreet",
+                            playerPasswordHash = "XohImNooBHFR0OVvjcYpJ3NgPQ1qq73WKhHvch0VQtg="
+                        },
+                        new
+                        {
+                            playerId = 2,
+                            playerDateJoined = new DateTime(2024, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            playerName = "progamer97",
+                            playerPasswordHash = "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI="
+                        },
+                        new
+                        {
+                            playerId = 3,
+                            playerDateJoined = new DateTime(2026, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            playerName = "GameSkayer93",
+                            playerPasswordHash = "ZehL4zUy+3hMSBKWdfnv86aCsnFowOp0Syz1juAjN8U="
+                        });
+                });
 
             modelBuilder.Entity("Multiplayer_Strategy_Game_Website_API.Models.Game", b =>
                 {
@@ -92,6 +139,10 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                     b.Property<string>("lobbyHostStatus")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("lobbyMovesJson")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("lobbyStatus")
                         .HasColumnType("nvarchar(max)");
 
@@ -113,6 +164,7 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                             lobbyGameId = 1,
                             lobbyHostID = 1,
                             lobbyHostStatus = "lost",
+                            lobbyMovesJson = "[]",
                             lobbyStatus = "closed",
                             lobbyVisibility = "public"
                         },
@@ -125,6 +177,7 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                             lobbyGameId = 2,
                             lobbyHostID = 2,
                             lobbyHostStatus = "lost",
+                            lobbyMovesJson = "[]",
                             lobbyStatus = "closed",
                             lobbyVisibility = "private"
                         },
@@ -134,55 +187,9 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                             lobbyDateCreated = new DateTime(2026, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             lobbyGameId = 1,
                             lobbyHostID = 1,
+                            lobbyMovesJson = "[]",
                             lobbyStatus = "Open",
                             lobbyVisibility = "public"
-                        });
-                });
-
-            modelBuilder.Entity("Multiplayer_Strategy_Game_Website_API.Models.Player", b =>
-                {
-                    b.Property<int>("playerId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("playerId"));
-
-                    b.Property<DateTime>("playerDateJoined")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("playerName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("playerPasswordHash")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("playerId");
-
-                    b.ToTable("Players");
-
-                    b.HasData(
-                        new
-                        {
-                            playerId = 1,
-                            playerDateJoined = new DateTime(2025, 12, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            playerName = "techstreet",
-                            playerPasswordHash = "XohImNooBHFR0OVvjcYpJ3NgPQ1qq73WKhHvch0VQtg="
-                        },
-                        new
-                        {
-                            playerId = 2,
-                            playerDateJoined = new DateTime(2024, 2, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            playerName = "progamer97",
-                            playerPasswordHash = "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI="
-                        },
-                        new
-                        {
-                            playerId = 3,
-                            playerDateJoined = new DateTime(2026, 1, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            playerName = "GameSkayer93",
-                            playerPasswordHash = "ZehL4zUy+3hMSBKWdfnv86aCsnFowOp0Syz1juAjN8U="
                         });
                 });
 #pragma warning restore 612, 618

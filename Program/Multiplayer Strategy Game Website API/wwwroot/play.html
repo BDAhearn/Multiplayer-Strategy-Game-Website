@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Lobby</title>
+    <script defer src="js/signalr/dist/browser/signalr.js"></script>
+    <script defer src="js/layout.js"></script>
+    <script defer src="js/auth.js"></script>
+    <script defer src="js/play.js"></script>
+</head>
+<body>
+
+    <div id="header"></div>
+
+    <div style="display: flex; height: 100vh;">
+        <div style="width: 25%; border-right: 1px solid black; padding: 10px;">
+            <h3>Players</h3>
+            <p id="hostName"></p>
+            <p id="challengerName"></p>
+        </div>
+
+        <div style="width: 75%; padding: 10px;">
+            <h3 id="gameTitle"></h3>
+            <div id="gameContainer"></div>
+        </div>
+
+    </div>
+</body>
+</html>

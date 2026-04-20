@@ -40,7 +40,8 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
                     lobbyChallengerId = table.Column<int>(type: "int", nullable: true),
                     lobbyChallengerStatus = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     lobbyDateCreated = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    lobbyVisibility = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    lobbyVisibility = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    lobbyMovesJson = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -74,12 +75,12 @@ namespace Multiplayer_Strategy_Game_Website_API.Migrations
 
             migrationBuilder.InsertData(
                 table: "Lobbies",
-                columns: new[] { "lobbyId", "lobbyChallengerId", "lobbyChallengerStatus", "lobbyDateCreated", "lobbyGameId", "lobbyHostID", "lobbyHostStatus", "lobbyStatus", "lobbyVisibility" },
+                columns: new[] { "lobbyId", "lobbyChallengerId", "lobbyChallengerStatus", "lobbyDateCreated", "lobbyGameId", "lobbyHostID", "lobbyHostStatus", "lobbyMovesJson", "lobbyStatus", "lobbyVisibility" },
                 values: new object[,]
                 {
-                    { 1, 2, "won", new DateTime(2026, 1, 5, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, 1, "lost", "closed", "public" },
-                    { 2, 3, "won", new DateTime(2026, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified), 2, 2, "lost", "closed", "private" },
-                    { 3, null, null, new DateTime(2026, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, 1, null, "Open", "public" }
+                    { 1, 2, "won", new DateTime(2026, 1, 5, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, 1, "lost", "[]", "closed", "public" },
+                    { 2, 3, "won", new DateTime(2026, 2, 19, 0, 0, 0, 0, DateTimeKind.Unspecified), 2, 2, "lost", "[]", "closed", "private" },
+                    { 3, null, null, new DateTime(2026, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), 1, 1, null, "[]", "Open", "public" }
                 });
 
             migrationBuilder.InsertData(

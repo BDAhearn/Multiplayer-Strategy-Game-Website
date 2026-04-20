@@ -1,24 +1,36 @@
 wwwroot\css\styles.css
-wwwroot\js\auth.js
-wwwroot\js\api.js
-wwwroot\js\layout.js
-wwwroot\js\login.js
-wwwroot\js\register.js
-wwwroot\js\lobby.js
-wwwroot\partials\header.html
-wwwroot\register.html
-wwwroot\login.html
+wwwroot\games\tictactoe.html
 wwwroot\index.html
+wwwroot\js\api.js
+wwwroot\js\auth.js
+wwwroot\js\layout.js
+wwwroot\js\lobby.js
+wwwroot\js\login.js
+wwwroot\js\play.js
+wwwroot\js\register.js
+wwwroot\js\signalr\dist\browser\signalr.js
+wwwroot\js\signalr\dist\browser\signalr.min.js
 wwwroot\lobby.html
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\login.html
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\auth.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\lobby.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\lobby.html
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\register.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\login.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\layout.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\api.js
-C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\partials\header.html
+wwwroot\login.html
+wwwroot\partials\header.html
+wwwroot\play.html
+wwwroot\register.html
+wwwroot\js\games\tictactoe.js
 C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\css\styles.css
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\games\tictactoe.html
 C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\index.html
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\api.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\auth.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\layout.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\lobby.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\login.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\play.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\register.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\signalr\dist\browser\signalr.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\signalr\dist\browser\signalr.min.js
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\lobby.html
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\login.html
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\partials\header.html
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\play.html
 C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\register.html
+C:\Users\Blake\Documents\Programs\School\Senior Project\GitHub\Senior-Project---Multiplayer-Strategy-Game-Website\Program\Multiplayer Strategy Game Website API\wwwroot\js\games\tictactoe.js

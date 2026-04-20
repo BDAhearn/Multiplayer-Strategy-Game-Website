@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\js\\games\\tictactoe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\js\\games\\tictactoe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\games\\tictactoe\\tictactoehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:games\\tictactoe\\tictactoehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\games\\tictactoe\\tictactoegameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:games\\tictactoe\\tictactoegameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\js\\lobby.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\js\\lobby.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\games\\tictactoe.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\games\\tictactoe.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\js\\play.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\js\\play.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\controllers\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:controllers\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\lobby.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\lobby.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\js\\lobby.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\js\\lobby.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\play.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\play.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,12 +51,8 @@
       "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\models\\createlobbyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:models\\createlobbyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\lobby.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|solutionrelative:wwwroot\\lobby.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{590976DF-1DE5-4534-96EF-E1652D6B01B3}|Multiplayer Strategy Game Website API.csproj|c:\\users\\blake\\documents\\programs\\school\\senior project\\github\\senior-project---multiplayer-strategy-game-website\\program\\multiplayer strategy game website api\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,84 +66,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateLobbyRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Models\\CreateLobbyRequest.cs",
-              "RelativeDocumentMoniker": "Models\\CreateLobbyRequest.cs",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Models\\CreateLobbyRequest.cs",
-              "RelativeToolTip": "Models\\CreateLobbyRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T03:02:06.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADgv10AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T02:54:11.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T02:43:40.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\index.html",
-              "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Title": "tictactoe.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\games\\tictactoe.html",
+              "RelativeDocumentMoniker": "wwwroot\\games\\tictactoe.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\games\\tictactoe.html",
+              "RelativeToolTip": "wwwroot\\games\\tictactoe.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-12T02:26:34.688Z",
+              "WhenOpened": "2026-04-20T00:11:17.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "register.html",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\register.html",
-              "RelativeDocumentMoniker": "wwwroot\\register.html",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\register.html",
-              "RelativeToolTip": "wwwroot\\register.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-12T02:20:02.624Z",
+              "DocumentIndex": 2,
+              "Title": "TicTacToeGameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Games\\TicTacToe\\TicTacToeGameEngine.cs",
+              "RelativeDocumentMoniker": "Games\\TicTacToe\\TicTacToeGameEngine.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Games\\TicTacToe\\TicTacToeGameEngine.cs",
+              "RelativeToolTip": "Games\\TicTacToe\\TicTacToeGameEngine.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:29:26.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "login.html",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\login.html",
-              "RelativeDocumentMoniker": "wwwroot\\login.html",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\login.html",
-              "RelativeToolTip": "wwwroot\\login.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-12T02:19:44.333Z",
+              "DocumentIndex": 1,
+              "Title": "TicTacToeHub.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Games\\TicTacToe\\TicTacToeHub.cs",
+              "RelativeDocumentMoniker": "Games\\TicTacToe\\TicTacToeHub.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Games\\TicTacToe\\TicTacToeHub.cs",
+              "RelativeToolTip": "Games\\TicTacToe\\TicTacToeHub.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowBsAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:02:57.178Z",
               "EditorCaption": ""
             },
             {
@@ -134,36 +115,136 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\lobby.js",
               "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\js\\lobby.js",
               "RelativeToolTip": "wwwroot\\js\\lobby.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-04-12T02:07:08.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "tictactoe.js",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\js\\games\\tictactoe.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\games\\tictactoe.js",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\js\\games\\tictactoe.js",
+              "RelativeToolTip": "wwwroot\\js\\games\\tictactoe.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-19T04:49:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "play.js",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\js\\play.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\play.js",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\js\\play.js",
+              "RelativeToolTip": "wwwroot\\js\\play.js",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-19T03:55:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Hubs\\GameHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\GameHub.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Hubs\\GameHub.cs",
+              "RelativeToolTip": "Hubs\\GameHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T00:27:33.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "play.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\play.html",
+              "RelativeDocumentMoniker": "wwwroot\\play.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\play.html",
+              "RelativeToolTip": "wwwroot\\play.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-19T00:20:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T02:43:40.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\register.html",
+              "RelativeDocumentMoniker": "wwwroot\\register.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\register.html",
+              "RelativeToolTip": "wwwroot\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T02:20:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\login.html",
+              "RelativeToolTip": "wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T02:19:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lobby.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\lobby.html",
+              "RelativeDocumentMoniker": "wwwroot\\lobby.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\lobby.html",
+              "RelativeToolTip": "wwwroot\\lobby.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T01:57:21.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LobbyController.cs",
               "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Controllers\\LobbyController.cs",
               "RelativeDocumentMoniker": "Controllers\\LobbyController.cs",
               "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\Controllers\\LobbyController.cs",
               "RelativeToolTip": "Controllers\\LobbyController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T02:05:03.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lobby.html",
-              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\lobby.html",
-              "RelativeDocumentMoniker": "wwwroot\\lobby.html",
-              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\lobby.html",
-              "RelativeToolTip": "wwwroot\\lobby.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\Programs\\School\\Senior Project\\GitHub\\Senior-Project---Multiplayer-Strategy-Game-Website\\Program\\Multiplayer Strategy Game Website API\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-12T01:57:21.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T02:26:34.688Z"
             }
           ]
         }
